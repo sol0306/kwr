@@ -58,3 +58,4 @@ function updateStopwatch() {
   const seconds = String(timer % 60).padStart(2, '0');
   document.getElementById("stopwatch").innerText = `스톱워치: ${minutes}:${seconds}`;
 }
+fetch('words.json?_=' + new Date().getTime())
