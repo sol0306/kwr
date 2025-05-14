@@ -1,12 +1,22 @@
 let words = [];
+let shuffledWords = [];
+let currentIndex = 0;
 let timer = 0;
 let stopwatchInterval;
 
-fetch('words.json')
+// 캐시 우회를 위한 fetch
+fetch('words.json?_=' + new Date().getTime())
   .then(response => response.json())
   .then(data => {
     words = data;
+    shuffleWords(); // 처음 한 번 셔플
   });
+
+// 셔플 함수: 단어를 섞고 인덱스 초기화
+function shuffleWords() {
+  shuffledWords = [...words].sort(() => Math.random() - 0.5);
+  currentIndex = 0;
+}
 
 function startApp() {
   document.getElementById("start_section").style.display = "none";
@@ -15,8 +25,14 @@ function startApp() {
 }
 
 function generateWord() {
-  if (words.length === 0) return;
-  const random = words[Math.floor(Math.random() * words.length)];
+  if (shuffledWords.length === 0) return;
+
+  // 모든 단어를 다 본 경우 다시 섞기
+  if (currentIndex >= shuffledWords.length) {
+    shuffleWords();
+  }
+
+  const random = shuffledWords[currentIndex++];
   document.getElementById("word_display").innerText = `단어: ${random.word}`;
   document.getElementById("jp_word").innerText = random.jp_word;
   document.getElementById("jp_meaning").innerText = random.jp_meaning;
@@ -58,4 +74,3 @@ function updateStopwatch() {
   const seconds = String(timer % 60).padStart(2, '0');
   document.getElementById("stopwatch").innerText = `스톱워치: ${minutes}:${seconds}`;
 }
-fetch('words.json?_=' + new Date().getTime())
