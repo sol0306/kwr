@@ -6,7 +6,7 @@ let timer = 0;
 let stopwatchInterval;
 
 // JSON 파일 이름을 'words.json'으로 수정
-fetch('words.json?_=' + new Date().getTime())
+fetch('./words.json?_=' + new Date().getTime())
   .then(response => response.json())
   .then(data => {
     words = data;
