@@ -1,1502 +1,1427 @@
 [
   {
-    "word": "관계",
-    "jp_word": "関係",
-    "jp_meaning": "人や物の間のつながり"
+    "ko_word": "사용",
+    "word": "使用",
+    "ja_meaning": "何かを使うこと"
   },
   {
-    "word": "관심",
-    "jp_word": "関心",
-    "jp_meaning": "興味を持つこと"
+    "ko_word": "실패",
+    "word": "失敗",
+    "ja_meaning": "望んだ結果が得られないこと"
   },
   {
-    "word": "발전",
-    "jp_word": "発展",
-    "jp_meaning": "物事がよくなっていくこと"
+    "ko_word": "집중",
+    "word": "集中",
+    "ja_meaning": "一つのことに全神経を注ぐこと"
   },
   {
-    "word": "정보",
-    "jp_word": "情報",
-    "jp_meaning": "知っておくべき内容"
+    "ko_word": "자료",
+    "word": "資料",
+    "ja_meaning": "情報を含む文書やデータ"
   },
   {
-    "word": "관심",
-    "jp_word": "関心",
-    "jp_meaning": "興味を持つこと"
+    "ko_word": "발전",
+    "word": "発展",
+    "ja_meaning": "より良い方向へ進むこと"
   },
   {
-    "word": "관심",
-    "jp_word": "関心",
-    "jp_meaning": "興味を持つこと"
+    "ko_word": "학습",
+    "word": "学習",
+    "ja_meaning": "学んで身につける過程"
   },
   {
-    "word": "생활",
-    "jp_word": "生活",
-    "jp_meaning": "毎日の暮らし"
+    "ko_word": "이해력",
+    "word": "理解力",
+    "ja_meaning": "理解する能力"
   },
   {
-    "word": "성공",
-    "jp_word": "成功",
-    "jp_meaning": "思ったとおりにうまくいくこと"
+    "ko_word": "설명서",
+    "word": "説明書",
+    "ja_meaning": "説明が書かれた文書"
   },
   {
-    "word": "자료",
-    "jp_word": "資料",
-    "jp_meaning": "参考になる情報やデータ"
+    "ko_word": "감사",
+    "word": "感謝",
+    "ja_meaning": "ありがたい気持ち"
   },
   {
-    "word": "발전",
-    "jp_word": "発展",
-    "jp_meaning": "物事がよくなっていくこと"
+    "ko_word": "기억",
+    "word": "記憶",
+    "ja_meaning": "経験や情報を頭に残すこと"
   },
   {
-    "word": "조건",
-    "jp_word": "条件",
-    "jp_meaning": "あることが成り立つための前提"
+    "ko_word": "설명력",
+    "word": "説明力",
+    "ja_meaning": "うまく説明する能力"
   },
   {
-    "word": "이해",
-    "jp_word": "理解",
-    "jp_meaning": "内容をよくわかること"
+    "ko_word": "해결",
+    "word": "解決",
+    "ja_meaning": "問題を解決すること"
   },
   {
-    "word": "관계",
-    "jp_word": "関係",
-    "jp_meaning": "人や物の間のつながり"
+    "ko_word": "능력",
+    "word": "能力",
+    "ja_meaning": "何かを成し遂げる力"
   },
   {
-    "word": "자신감",
-    "jp_word": "自信",
-    "jp_meaning": "自分を信じる気持ち"
+    "ko_word": "자신감",
+    "word": "自信",
+    "ja_meaning": "自分を信じる気持ち"
   },
   {
-    "word": "실패",
-    "jp_word": "失敗",
-    "jp_meaning": "うまくいかないこと"
+    "ko_word": "이해",
+    "word": "理解",
+    "ja_meaning": "内容を正確に知ること"
   },
   {
-    "word": "자료",
-    "jp_word": "資料",
-    "jp_meaning": "参考になる情報やデータ"
+    "ko_word": "성공",
+    "word": "成功",
+    "ja_meaning": "目標を達成すること"
   },
   {
-    "word": "문제",
-    "jp_word": "問題",
-    "jp_meaning": "解決しなければならないこと"
+    "ko_word": "설명",
+    "word": "説明",
+    "ja_meaning": "分かりやすく話すこと"
   },
   {
-    "word": "조건",
-    "jp_word": "条件",
-    "jp_meaning": "あることが成り立つための前提"
+    "ko_word": "예정",
+    "word": "予定",
+    "ja_meaning": "事前に決めた計画"
   },
   {
-    "word": "자신감",
-    "jp_word": "自信",
-    "jp_meaning": "自分を信じる気持ち"
+    "ko_word": "행동",
+    "word": "行動",
+    "ja_meaning": "目的を持って動くこと"
   },
   {
-    "word": "문제",
-    "jp_word": "問題",
-    "jp_meaning": "解決しなければならないこと"
+    "ko_word": "확인",
+    "word": "確認",
+    "ja_meaning": "間違いがないか調べること"
   },
   {
-    "word": "관계",
-    "jp_word": "関係",
-    "jp_meaning": "人や物の間のつながり"
+    "ko_word": "대답",
+    "word": "返事",
+    "ja_meaning": "質問に応じること"
   },
   {
-    "word": "자신감",
-    "jp_word": "自信",
-    "jp_meaning": "自分を信じる気持ち"
+    "ko_word": "기대",
+    "word": "期待",
+    "ja_meaning": "うまくいくことを望む気持ち"
   },
   {
-    "word": "자료",
-    "jp_word": "資料",
-    "jp_meaning": "参考になる情報やデータ"
+    "ko_word": "반응",
+    "word": "反応",
+    "ja_meaning": "刺激に対する応答"
   },
   {
-    "word": "실패",
-    "jp_word": "失敗",
-    "jp_meaning": "うまくいかないこと"
+    "ko_word": "결과",
+    "word": "結果",
+    "ja_meaning": "物事が終わった後の状態"
   },
   {
-    "word": "행동",
-    "jp_word": "行動",
-    "jp_meaning": "実際に何かをすること"
+    "ko_word": "준비",
+    "word": "準備",
+    "ja_meaning": "事前に整えること"
   },
   {
-    "word": "예정",
-    "jp_word": "予定",
-    "jp_meaning": "これからすることに決めたこと"
+    "ko_word": "감정",
+    "word": "感情",
+    "ja_meaning": "感じる気持ちや情緒"
   },
   {
-    "word": "발전",
-    "jp_word": "発展",
-    "jp_meaning": "物事がよくなっていくこと"
+    "ko_word": "발견",
+    "word": "発見",
+    "ja_meaning": "新しく見つけること"
   },
   {
-    "word": "문제",
-    "jp_word": "問題",
-    "jp_meaning": "解決しなければならないこと"
+    "ko_word": "관계",
+    "word": "関係",
+    "ja_meaning": "人や物のつながり"
   },
   {
-    "word": "조건",
-    "jp_word": "条件",
-    "jp_meaning": "あることが成り立つための前提"
+    "ko_word": "표정",
+    "word": "表情",
+    "ja_meaning": "顔に表れる感情"
   },
   {
-    "word": "발전",
-    "jp_word": "発展",
-    "jp_meaning": "物事がよくなっていくこと"
+    "ko_word": "변경",
+    "word": "変更",
+    "ja_meaning": "既存のものを変えること"
   },
   {
-    "word": "기억",
-    "jp_word": "記憶",
-    "jp_meaning": "覚えていること"
+    "ko_word": "기록",
+    "word": "記録",
+    "ja_meaning": "事実や内容を書き残すこと"
   },
   {
-    "word": "능력",
-    "jp_word": "能力",
-    "jp_meaning": "物事をうまくやる力"
+    "ko_word": "약속",
+    "word": "約束",
+    "ja_meaning": "事前に決めたこと"
   },
   {
-    "word": "결정",
-    "jp_word": "決定",
-    "jp_meaning": "あることをすることに決めること"
+    "ko_word": "출발",
+    "word": "出発",
+    "ja_meaning": "どこかへ出発すること"
   },
   {
-    "word": "이해",
-    "jp_word": "理解",
-    "jp_meaning": "内容をよくわかること"
+    "ko_word": "연락",
+    "word": "連絡",
+    "ja_meaning": "情報や知らせを伝えること"
   },
   {
-    "word": "능력",
-    "jp_word": "能力",
-    "jp_meaning": "物事をうまくやる力"
+    "ko_word": "변화",
+    "word": "変化",
+    "ja_meaning": "状態や形が変わること"
   },
   {
-    "word": "관심",
-    "jp_word": "関心",
-    "jp_meaning": "興味を持つこと"
+    "ko_word": "관심",
+    "word": "関心",
+    "ja_meaning": "興味や注意を持つこと"
   },
   {
-    "word": "이해",
-    "jp_word": "理解",
-    "jp_meaning": "内容をよくわかること"
+    "ko_word": "연습",
+    "word": "練習",
+    "ja_meaning": "繰り返して身につけること"
   },
   {
-    "word": "문제",
-    "jp_word": "問題",
-    "jp_meaning": "解決しなければならないこと"
+    "ko_word": "조건",
+    "word": "条件",
+    "ja_meaning": "成立のための前提"
   },
   {
-    "word": "자신감",
-    "jp_word": "自信",
-    "jp_meaning": "自分を信じる気持ち"
+    "ko_word": "도전",
+    "word": "挑戦",
+    "ja_meaning": "困難に挑むこと"
   },
   {
-    "word": "성공",
-    "jp_word": "成功",
-    "jp_meaning": "思ったとおりにうまくいくこと"
+    "ko_word": "생활",
+    "word": "生活",
+    "ja_meaning": "日常を過ごす行為や状態"
   },
   {
-    "word": "관심",
-    "jp_word": "関心",
-    "jp_meaning": "興味を持つこと"
+    "ko_word": "필요",
+    "word": "必要",
+    "ja_meaning": "どうしてもなければならないこと"
   },
   {
-    "word": "결정",
-    "jp_word": "決定",
-    "jp_meaning": "あることをすることに決めること"
+    "ko_word": "표현",
+    "word": "表現",
+    "ja_meaning": "考えや感情を表す方法"
   },
   {
-    "word": "능력",
-    "jp_word": "能力",
-    "jp_meaning": "物事をうまくやる力"
+    "ko_word": "경험",
+    "word": "経験",
+    "ja_meaning": "実際にして感じたこと"
   },
   {
-    "word": "경험",
-    "jp_word": "経験",
-    "jp_meaning": "自分で実際にやってみたり感じたりしたこと"
+    "ko_word": "결정",
+    "word": "決定",
+    "ja_meaning": "何をするかを決めること"
   },
   {
-    "word": "이해",
-    "jp_word": "理解",
-    "jp_meaning": "内容をよくわかること"
+    "ko_word": "정보",
+    "word": "情報",
+    "ja_meaning": "事実や知識に関する内容"
   },
   {
-    "word": "관계",
-    "jp_word": "関係",
-    "jp_meaning": "人や物の間のつながり"
+    "ko_word": "정리",
+    "word": "整理",
+    "ja_meaning": "整頓したり順に並べること"
   },
   {
-    "word": "행동",
-    "jp_word": "行動",
-    "jp_meaning": "実際に何かをすること"
+    "ko_word": "의견",
+    "word": "意見",
+    "ja_meaning": "物事に対する考え"
   },
   {
-    "word": "관계",
-    "jp_word": "関係",
-    "jp_meaning": "人や物の間のつながり"
+    "ko_word": "중요",
+    "word": "重要",
+    "ja_meaning": "最も必要または意味のある状態"
   },
   {
-    "word": "조건",
-    "jp_word": "条件",
-    "jp_meaning": "あることが成り立つための前提"
+    "ko_word": "선택",
+    "word": "選択",
+    "ja_meaning": "複数の中から一つを選ぶこと"
   },
   {
-    "word": "발전",
-    "jp_word": "発展",
-    "jp_meaning": "物事がよくなっていくこと"
+    "ko_word": "문제",
+    "word": "問題",
+    "ja_meaning": "解決すべき課題や質問"
   },
   {
-    "word": "기억",
-    "jp_word": "記憶",
-    "jp_meaning": "覚えていること"
+    "ko_word": "건강",
+    "word": "健康",
+    "ja_meaning": "体や心が丈夫な状態"
   },
   {
-    "word": "능력",
-    "jp_word": "能力",
-    "jp_meaning": "物事をうまくやる力"
+    "ko_word": "공부",
+    "word": "勉強",
+    "ja_meaning": "学ぶこと"
   },
   {
-    "word": "정보",
-    "jp_word": "情報",
-    "jp_meaning": "知っておくべき内容"
+    "ko_word": "과일",
+    "word": "果物",
+    "ja_meaning": "甘くて食べられる植物の実"
   },
   {
-    "word": "실패",
-    "jp_word": "失敗",
-    "jp_meaning": "うまくいかないこと"
+    "ko_word": "교통",
+    "word": "交通",
+    "ja_meaning": "人や物の移動の仕組み"
   },
   {
-    "word": "관심",
-    "jp_word": "関心",
-    "jp_meaning": "興味を持つこと"
+    "ko_word": "규칙",
+    "word": "規則",
+    "ja_meaning": "守るべき決まり"
   },
   {
-    "word": "결정",
-    "jp_word": "決定",
-    "jp_meaning": "あることをすることに決めること"
+    "ko_word": "기분",
+    "word": "気分",
+    "ja_meaning": "感じている気持ちの状態"
   },
   {
-    "word": "실패",
-    "jp_word": "失敗",
-    "jp_meaning": "うまくいかないこと"
+    "ko_word": "남자",
+    "word": "男性",
+    "ja_meaning": "男の人"
   },
   {
-    "word": "자료",
-    "jp_word": "資料",
-    "jp_meaning": "参考になる情報やデータ"
+    "ko_word": "내용",
+    "word": "内容",
+    "ja_meaning": "中に含まれる事柄"
   },
   {
-    "word": "문제",
-    "jp_word": "問題",
-    "jp_meaning": "解決しなければならないこと"
+    "ko_word": "노력",
+    "word": "努力",
+    "ja_meaning": "がんばること"
   },
   {
-    "word": "이해",
-    "jp_word": "理解",
-    "jp_meaning": "内容をよくわかること"
+    "ko_word": "눈물",
+    "word": "涙",
+    "ja_meaning": "泣くときに目から出る液体"
   },
   {
-    "word": "관심",
-    "jp_word": "関心",
-    "jp_meaning": "興味を持つこと"
+    "ko_word": "느낌",
+    "word": "感覚",
+    "ja_meaning": "体や心で感じること"
   },
   {
-    "word": "이해",
-    "jp_word": "理解",
-    "jp_meaning": "内容をよくわかること"
+    "ko_word": "답장",
+    "word": "返事",
+    "ja_meaning": "手紙やメッセージの返し"
   },
   {
-    "word": "정보",
-    "jp_word": "情報",
-    "jp_meaning": "知っておくべき内容"
+    "ko_word": "대학교",
+    "word": "大学",
+    "ja_meaning": "高校の後に行く学校"
   },
   {
-    "word": "변화",
-    "jp_word": "変化",
-    "jp_meaning": "何かが違ってくること"
+    "ko_word": "동물",
+    "word": "動物",
+    "ja_meaning": "人間以外の生き物"
   },
   {
-    "word": "실패",
-    "jp_word": "失敗",
-    "jp_meaning": "うまくいかないこと"
+    "ko_word": "등산",
+    "word": "登山",
+    "ja_meaning": "山に登ること"
   },
   {
-    "word": "경험",
-    "jp_word": "経験",
-    "jp_meaning": "自分で実際にやってみたり感じたりしたこと"
+    "ko_word": "문화",
+    "word": "文化",
+    "ja_meaning": "生活様式や考え方など"
   },
   {
-    "word": "성공",
-    "jp_word": "成功",
-    "jp_meaning": "思ったとおりにうまくいくこと"
+    "ko_word": "방문",
+    "word": "訪問",
+    "ja_meaning": "誰かのところに行くこと"
   },
   {
-    "word": "문제",
-    "jp_word": "問題",
-    "jp_meaning": "解決しなければならないこと"
+    "ko_word": "배달",
+    "word": "配達",
+    "ja_meaning": "物を届けること"
   },
   {
-    "word": "예정",
-    "jp_word": "予定",
-    "jp_meaning": "これからすることに決めたこと"
+    "ko_word": "병원",
+    "word": "病院",
+    "ja_meaning": "医者がいる施設"
   },
   {
-    "word": "성공",
-    "jp_word": "成功",
-    "jp_meaning": "思ったとおりにうまくいくこと"
+    "ko_word": "불편",
+    "word": "不便",
+    "ja_meaning": "使いにくかったり不都合なこと"
   },
   {
-    "word": "성공",
-    "jp_word": "成功",
-    "jp_meaning": "思ったとおりにうまくいくこと"
+    "ko_word": "사람",
+    "word": "人",
+    "ja_meaning": "人間"
   },
   {
-    "word": "문제",
-    "jp_word": "問題",
-    "jp_meaning": "解決しなければならないこと"
+    "ko_word": "사진",
+    "word": "写真",
+    "ja_meaning": "カメラで撮った画像"
   },
   {
-    "word": "이해",
-    "jp_word": "理解",
-    "jp_meaning": "内容をよくわかること"
+    "ko_word": "사전",
+    "word": "辞書",
+    "ja_meaning": "言葉の意味を調べる本"
   },
   {
-    "word": "성공",
-    "jp_word": "成功",
-    "jp_meaning": "思ったとおりにうまくいくこと"
+    "ko_word": "선물",
+    "word": "プレゼント",
+    "ja_meaning": "誰かにあげる物"
   },
   {
-    "word": "발전",
-    "jp_word": "発展",
-    "jp_meaning": "物事がよくなっていくこと"
+    "ko_word": "소식",
+    "word": "知らせ",
+    "ja_meaning": "ニュースや情報"
   },
   {
-    "word": "조건",
-    "jp_word": "条件",
-    "jp_meaning": "あることが成り立つための前提"
+    "ko_word": "시작",
+    "word": "開始",
+    "ja_meaning": "何かを始めること"
   },
   {
-    "word": "능력",
-    "jp_word": "能力",
-    "jp_meaning": "物事をうまくやる力"
+    "ko_word": "시간",
+    "word": "時間",
+    "ja_meaning": "出来事の長さやタイミング"
   },
   {
-    "word": "조건",
-    "jp_word": "条件",
-    "jp_meaning": "あることが成り立つための前提"
+    "ko_word": "신청",
+    "word": "申請",
+    "ja_meaning": "申し込みをすること"
   },
   {
-    "word": "이해",
-    "jp_word": "理解",
-    "jp_meaning": "内容をよくわかること"
+    "ko_word": "안내",
+    "word": "案内",
+    "ja_meaning": "情報を教えること"
   },
   {
-    "word": "연락",
-    "jp_word": "連絡",
-    "jp_meaning": "相手に情報を伝えること"
+    "ko_word": "여자",
+    "word": "女性",
+    "ja_meaning": "女の人"
   },
   {
-    "word": "결정",
-    "jp_word": "決定",
-    "jp_meaning": "あることをすることに決めること"
+    "ko_word": "영화",
+    "word": "映画",
+    "ja_meaning": "スクリーンで見る物語"
   },
   {
-    "word": "자료",
-    "jp_word": "資料",
-    "jp_meaning": "参考になる情報やデータ"
+    "ko_word": "오랜만",
+    "word": "久しぶり",
+    "ja_meaning": "長い時間が経った後"
   },
   {
-    "word": "관계",
-    "jp_word": "関係",
-    "jp_meaning": "人や物の間のつながり"
+    "ko_word": "요리",
+    "word": "料理",
+    "ja_meaning": "食べ物を作ること"
   },
   {
-    "word": "성공",
-    "jp_word": "成功",
-    "jp_meaning": "思ったとおりにうまくいくこと"
+    "ko_word": "운동",
+    "word": "運動",
+    "ja_meaning": "体を動かすこと"
   },
   {
-    "word": "정보",
-    "jp_word": "情報",
-    "jp_meaning": "知っておくべき内容"
+    "ko_word": "음악",
+    "word": "音楽",
+    "ja_meaning": "音で構成された芸術"
   },
   {
-    "word": "정보",
-    "jp_word": "情報",
-    "jp_meaning": "知っておくべき内容"
+    "ko_word": "이유",
+    "word": "理由",
+    "ja_meaning": "なぜそうなったかの説明"
   },
   {
-    "word": "결정",
-    "jp_word": "決定",
-    "jp_meaning": "あることをすることに決めること"
+    "ko_word": "인기",
+    "word": "人気",
+    "ja_meaning": "多くの人に好かれること"
   },
   {
-    "word": "조건",
-    "jp_word": "条件",
-    "jp_meaning": "あることが成り立つための前提"
+    "ko_word": "일기",
+    "word": "日記",
+    "ja_meaning": "毎日の出来事を書くこと"
   },
   {
-    "word": "조건",
-    "jp_word": "条件",
-    "jp_meaning": "あることが成り立つための前提"
+    "ko_word": "장소",
+    "word": "場所",
+    "ja_meaning": "あるところ、位置"
   },
   {
-    "word": "실패",
-    "jp_word": "失敗",
-    "jp_meaning": "うまくいかないこと"
+    "ko_word": "조용",
+    "word": "静か",
+    "ja_meaning": "音がない、落ち着いていること"
   },
   {
-    "word": "자료",
-    "jp_word": "資料",
-    "jp_meaning": "参考になる情報やデータ"
+    "ko_word": "계획",
+    "word": "計画",
+    "ja_meaning": "何をするかを前もって決めること"
   },
   {
-    "word": "자료",
-    "jp_word": "資料",
-    "jp_meaning": "参考になる情報やデータ"
+    "ko_word": "공연",
+    "word": "公演",
+    "ja_meaning": "ステージで行うイベントや発表"
   },
   {
-    "word": "예정",
-    "jp_word": "予定",
-    "jp_meaning": "これからすることに決めたこと"
+    "ko_word": "근처",
+    "word": "近所",
+    "ja_meaning": "近い場所"
   },
   {
-    "word": "능력",
-    "jp_word": "能力",
-    "jp_meaning": "物事をうまくやる力"
+    "ko_word": "기사",
+    "word": "記事",
+    "ja_meaning": "新聞や雑誌などの文書"
   },
   {
-    "word": "변화",
-    "jp_word": "変化",
-    "jp_meaning": "何かが違ってくること"
+    "ko_word": "기회",
+    "word": "機会",
+    "ja_meaning": "何かをする良いタイミング"
   },
   {
-    "word": "생활",
-    "jp_word": "生活",
-    "jp_meaning": "毎日の暮らし"
+    "ko_word": "날씨",
+    "word": "天気",
+    "ja_meaning": "空の様子"
   },
   {
-    "word": "정보",
-    "jp_word": "情報",
-    "jp_meaning": "知っておくべき内容"
+    "ko_word": "내일",
+    "word": "明日",
+    "ja_meaning": "今日の次の日"
   },
   {
-    "word": "성공",
-    "jp_word": "成功",
-    "jp_meaning": "思ったとおりにうまくいくこと"
+    "ko_word": "놀이",
+    "word": "遊び",
+    "ja_meaning": "楽しみのためにする活動"
   },
   {
-    "word": "관심",
-    "jp_word": "関心",
-    "jp_meaning": "興味を持つこと"
+    "ko_word": "도로",
+    "word": "道路",
+    "ja_meaning": "車が通る道"
   },
   {
-    "word": "능력",
-    "jp_word": "能力",
-    "jp_meaning": "物事をうまくやる力"
+    "ko_word": "두통",
+    "word": "頭痛",
+    "ja_meaning": "頭が痛いこと"
   },
   {
-    "word": "자신감",
-    "jp_word": "自信",
-    "jp_meaning": "自分を信じる気持ち"
+    "ko_word": "마음",
+    "word": "心",
+    "ja_meaning": "気持ちや感情"
   },
   {
-    "word": "자신감",
-    "jp_word": "自信",
-    "jp_meaning": "自分を信じる気持ち"
+    "ko_word": "마중",
+    "word": "出迎え",
+    "ja_meaning": "迎えに行くこと"
   },
   {
-    "word": "기억",
-    "jp_word": "記憶",
-    "jp_meaning": "覚えていること"
+    "ko_word": "매일",
+    "word": "毎日",
+    "ja_meaning": "日々、毎日"
   },
   {
-    "word": "이해",
-    "jp_word": "理解",
-    "jp_meaning": "内容をよくわかること"
+    "ko_word": "목소리",
+    "word": "声",
+    "ja_meaning": "人が出す音声"
   },
   {
-    "word": "관심",
-    "jp_word": "関心",
-    "jp_meaning": "興味を持つこと"
+    "ko_word": "목적",
+    "word": "目的",
+    "ja_meaning": "目指していること"
   },
   {
-    "word": "관심",
-    "jp_word": "関心",
-    "jp_meaning": "興味を持つこと"
+    "ko_word": "무게",
+    "word": "重さ",
+    "ja_meaning": "重さの程度"
   },
   {
-    "word": "예정",
-    "jp_word": "予定",
-    "jp_meaning": "これからすることに決めたこと"
+    "ko_word": "문장",
+    "word": "文章",
+    "ja_meaning": "文の構造"
   },
   {
-    "word": "예정",
-    "jp_word": "予定",
-    "jp_meaning": "これからすることに決めたこと"
+    "ko_word": "미래",
+    "word": "未来",
+    "ja_meaning": "これから起こる時間"
   },
   {
-    "word": "변화",
-    "jp_word": "変化",
-    "jp_meaning": "何かが違ってくること"
+    "ko_word": "바람",
+    "word": "風",
+    "ja_meaning": "空気の動き"
   },
   {
-    "word": "자료",
-    "jp_word": "資料",
-    "jp_meaning": "参考になる情報やデータ"
+    "ko_word": "반대",
+    "word": "反対",
+    "ja_meaning": "正反対の意見や方向"
   },
   {
-    "word": "문제",
-    "jp_word": "問題",
-    "jp_meaning": "解決しなければならないこと"
+    "ko_word": "배우",
+    "word": "俳優",
+    "ja_meaning": "映画や演劇に出る人"
   },
   {
-    "word": "조건",
-    "jp_word": "条件",
-    "jp_meaning": "あることが成り立つための前提"
+    "ko_word": "변명",
+    "word": "言い訳",
+    "ja_meaning": "説明して弁解すること"
   },
   {
-    "word": "행동",
-    "jp_word": "行動",
-    "jp_meaning": "実際に何かをすること"
+    "ko_word": "불안",
+    "word": "不安",
+    "ja_meaning": "心配で落ち着かない気持ち"
   },
   {
-    "word": "예정",
-    "jp_word": "予定",
-    "jp_meaning": "これからすることに決めたこと"
+    "ko_word": "비교",
+    "word": "比較",
+    "ja_meaning": "二つ以上を比べること"
   },
   {
-    "word": "변화",
-    "jp_word": "変化",
-    "jp_meaning": "何かが違ってくること"
+    "ko_word": "비밀",
+    "word": "秘密",
+    "ja_meaning": "他の人に知られていないこと"
   },
   {
-    "word": "행동",
-    "jp_word": "行動",
-    "jp_meaning": "実際に何かをすること"
+    "ko_word": "생각",
+    "word": "考え",
+    "ja_meaning": "頭の中の意見や判断"
   },
   {
-    "word": "성공",
-    "jp_word": "成功",
-    "jp_meaning": "思ったとおりにうまくいくこと"
+    "ko_word": "소리",
+    "word": "音",
+    "ja_meaning": "耳で感じるもの"
   },
   {
-    "word": "정보",
-    "jp_word": "情報",
-    "jp_meaning": "知っておくべき内容"
+    "ko_word": "소문",
+    "word": "うわさ",
+    "ja_meaning": "人々の間に広がる話"
   },
   {
-    "word": "자신감",
-    "jp_word": "自信",
-    "jp_meaning": "自分を信じる気持ち"
+    "ko_word": "수업",
+    "word": "授業",
+    "ja_meaning": "先生が教える活動"
   },
   {
-    "word": "행동",
-    "jp_word": "行動",
-    "jp_meaning": "実際に何かをすること"
+    "ko_word": "시장",
+    "word": "市場",
+    "ja_meaning": "物を買ったり売ったりする場所"
   },
   {
-    "word": "실패",
-    "jp_word": "失敗",
-    "jp_meaning": "うまくいかないこと"
+    "ko_word": "식사",
+    "word": "食事",
+    "ja_meaning": "ごはんを食べること"
   },
   {
-    "word": "기억",
-    "jp_word": "記憶",
-    "jp_meaning": "覚えていること"
+    "ko_word": "신호",
+    "word": "信号",
+    "ja_meaning": "動作を促すサイン"
   },
   {
-    "word": "실패",
-    "jp_word": "失敗",
-    "jp_meaning": "うまくいかないこと"
+    "ko_word": "실수",
+    "word": "ミス",
+    "ja_meaning": "間違いや失敗"
   },
   {
-    "word": "관심",
-    "jp_word": "関心",
-    "jp_meaning": "興味を持つこと"
+    "ko_word": "아침",
+    "word": "朝",
+    "ja_meaning": "一日の始まりの時間"
   },
   {
-    "word": "기억",
-    "jp_word": "記憶",
-    "jp_meaning": "覚えていること"
+    "ko_word": "약국",
+    "word": "薬局",
+    "ja_meaning": "薬を買う場所"
   },
   {
-    "word": "생활",
-    "jp_word": "生活",
-    "jp_meaning": "毎日の暮らし"
+    "ko_word": "양말",
+    "word": "靴下",
+    "ja_meaning": "足に履く衣類"
   },
   {
-    "word": "자료",
-    "jp_word": "資料",
-    "jp_meaning": "参考になる情報やデータ"
+    "ko_word": "예의",
+    "word": "礼儀",
+    "ja_meaning": "礼儀正しさ"
   },
   {
-    "word": "결정",
-    "jp_word": "決定",
-    "jp_meaning": "あることをすることに決めること"
+    "ko_word": "오후",
+    "word": "午後",
+    "ja_meaning": "昼の後の時間"
   },
   {
-    "word": "연락",
-    "jp_word": "連絡",
-    "jp_meaning": "相手に情報を伝えること"
+    "ko_word": "외국",
+    "word": "外国",
+    "ja_meaning": "自分の国以外の国"
   },
   {
-    "word": "자료",
-    "jp_word": "資料",
-    "jp_meaning": "参考になる情報やデータ"
+    "ko_word": "운전",
+    "word": "運転",
+    "ja_meaning": "車などを操作すること"
   },
   {
-    "word": "문제",
-    "jp_word": "問題",
-    "jp_meaning": "解決しなければならないこと"
+    "ko_word": "유행",
+    "word": "流行",
+    "ja_meaning": "みんなの間で人気があること"
   },
   {
-    "word": "행동",
-    "jp_word": "行動",
-    "jp_meaning": "実際に何かをすること"
+    "ko_word": "음식",
+    "word": "食べ物",
+    "ja_meaning": "食事のもの"
   },
   {
-    "word": "예정",
-    "jp_word": "予定",
-    "jp_meaning": "これからすることに決めたこと"
+    "ko_word": "의사",
+    "word": "医者",
+    "ja_meaning": "病気を治す人"
   },
   {
-    "word": "능력",
-    "jp_word": "能力",
-    "jp_meaning": "物事をうまくやる力"
+    "ko_word": "이름",
+    "word": "名前",
+    "ja_meaning": "人や物の呼び名"
   },
   {
-    "word": "실패",
-    "jp_word": "失敗",
-    "jp_meaning": "うまくいかないこと"
+    "ko_word": "입장",
+    "word": "入場",
+    "ja_meaning": "中に入ること"
   },
   {
-    "word": "변화",
-    "jp_word": "変化",
-    "jp_meaning": "何かが違ってくること"
+    "ko_word": "장점",
+    "word": "長所",
+    "ja_meaning": "良い特徴"
   },
   {
-    "word": "조건",
-    "jp_word": "条件",
-    "jp_meaning": "あることが成り立つための前提"
+    "ko_word": "간식",
+    "word": "おやつ",
+    "ja_meaning": "食事の間に食べる軽食"
   },
   {
-    "word": "발전",
-    "jp_word": "発展",
-    "jp_meaning": "物事がよくなっていくこと"
+    "ko_word": "감기",
+    "word": "風邪",
+    "ja_meaning": "ウイルスによる一般的な病気"
   },
   {
-    "word": "발전",
-    "jp_word": "発展",
-    "jp_meaning": "物事がよくなっていくこと"
+    "ko_word": "가격",
+    "word": "価格",
+    "ja_meaning": "商品の値段"
   },
   {
-    "word": "능력",
-    "jp_word": "能力",
-    "jp_meaning": "物事をうまくやる力"
+    "ko_word": "가족",
+    "word": "家族",
+    "ja_meaning": "一緒に暮らす親しい人々"
   },
   {
-    "word": "자신감",
-    "jp_word": "自信",
-    "jp_meaning": "自分を信じる気持ち"
+    "ko_word": "감동",
+    "word": "感動",
+    "ja_meaning": "心が強く動かされること"
   },
   {
-    "word": "발전",
-    "jp_word": "発展",
-    "jp_meaning": "物事がよくなっていくこと"
+    "ko_word": "간단",
+    "word": "簡単",
+    "ja_meaning": "難しくなくてやさしいこと"
   },
   {
-    "word": "정보",
-    "jp_word": "情報",
-    "jp_meaning": "知っておくべき内容"
+    "ko_word": "거리",
+    "word": "通り",
+    "ja_meaning": "人や車が通る道"
   },
   {
-    "word": "자신감",
-    "jp_word": "自信",
-    "jp_meaning": "自分を信じる気持ち"
+    "ko_word": "결혼",
+    "word": "結婚",
+    "ja_meaning": "夫婦になること"
   },
   {
-    "word": "조건",
-    "jp_word": "条件",
-    "jp_meaning": "あることが成り立つための前提"
+    "ko_word": "경기",
+    "word": "試合",
+    "ja_meaning": "スポーツなどの競争"
   },
   {
-    "word": "생활",
-    "jp_word": "生活",
-    "jp_meaning": "毎日の暮らし"
+    "ko_word": "고객",
+    "word": "顧客",
+    "ja_meaning": "商品やサービスを利用する人"
   },
   {
-    "word": "자신감",
-    "jp_word": "自信",
-    "jp_meaning": "自分を信じる気持ち"
+    "ko_word": "고장",
+    "word": "故障",
+    "ja_meaning": "機械がうまく動かないこと"
   },
   {
-    "word": "생활",
-    "jp_word": "生活",
-    "jp_meaning": "毎日の暮らし"
+    "ko_word": "공기",
+    "word": "空気",
+    "ja_meaning": "呼吸するために必要なもの"
   },
   {
-    "word": "발전",
-    "jp_word": "発展",
-    "jp_meaning": "物事がよくなっていくこと"
+    "ko_word": "공간",
+    "word": "空間",
+    "ja_meaning": "物が存在する場所"
   },
   {
-    "word": "변화",
-    "jp_word": "変化",
-    "jp_meaning": "何かが違ってくること"
+    "ko_word": "공부방",
+    "word": "自習室",
+    "ja_meaning": "勉強するための部屋"
   },
   {
-    "word": "발전",
-    "jp_word": "発展",
-    "jp_meaning": "物事がよくなっていくこと"
+    "ko_word": "관광",
+    "word": "観光",
+    "ja_meaning": "名所などを見物すること"
   },
   {
-    "word": "생활",
-    "jp_word": "生活",
-    "jp_meaning": "毎日の暮らし"
+    "ko_word": "교실",
+    "word": "教室",
+    "ja_meaning": "授業を行う部屋"
   },
   {
-    "word": "성공",
-    "jp_word": "成功",
-    "jp_meaning": "思ったとおりにうまくいくこと"
+    "ko_word": "교통사고",
+    "word": "交通事故",
+    "ja_meaning": "車などによる事故"
   },
   {
-    "word": "연락",
-    "jp_word": "連絡",
-    "jp_meaning": "相手に情報を伝えること"
+    "ko_word": "구름",
+    "word": "雲",
+    "ja_meaning": "空に浮かぶ白や灰色のかたまり"
   },
   {
-    "word": "능력",
-    "jp_word": "能力",
-    "jp_meaning": "物事をうまくやる力"
+    "ko_word": "국가",
+    "word": "国家",
+    "ja_meaning": "一つの国"
   },
   {
-    "word": "경험",
-    "jp_word": "経験",
-    "jp_meaning": "自分で実際にやってみたり感じたりしたこと"
+    "ko_word": "국민",
+    "word": "国民",
+    "ja_meaning": "その国に属する人々"
   },
   {
-    "word": "이해",
-    "jp_word": "理解",
-    "jp_meaning": "内容をよくわかること"
+    "ko_word": "군인",
+    "word": "軍人",
+    "ja_meaning": "軍隊に所属している人"
   },
   {
-    "word": "결정",
-    "jp_word": "決定",
-    "jp_meaning": "あることをすることに決めること"
+    "ko_word": "그림",
+    "word": "絵",
+    "ja_meaning": "線や色で表されたもの"
   },
   {
-    "word": "결정",
-    "jp_word": "決定",
-    "jp_meaning": "あることをすることに決めること"
+    "ko_word": "기능",
+    "word": "機能",
+    "ja_meaning": "物の働き"
   },
   {
-    "word": "변화",
-    "jp_word": "変化",
-    "jp_meaning": "何かが違ってくること"
+    "ko_word": "기술",
+    "word": "技術",
+    "ja_meaning": "特定の技の能力"
   },
   {
-    "word": "변화",
-    "jp_word": "変化",
-    "jp_meaning": "何かが違ってくること"
+    "ko_word": "기분전환",
+    "word": "気分転換",
+    "ja_meaning": "気持ちを変えること"
   },
   {
-    "word": "문제",
-    "jp_word": "問題",
-    "jp_meaning": "解決しなければならないこと"
+    "ko_word": "기온",
+    "word": "気温",
+    "ja_meaning": "空気の温度"
   },
   {
-    "word": "경험",
-    "jp_word": "経験",
-    "jp_meaning": "自分で実際にやってみたり感じたりしたこと"
+    "ko_word": "기차",
+    "word": "電車",
+    "ja_meaning": "線路の上を走る乗り物"
   },
   {
-    "word": "행동",
-    "jp_word": "行動",
-    "jp_meaning": "実際に何かをすること"
+    "ko_word": "나이",
+    "word": "年齢",
+    "ja_meaning": "生まれてからの年数"
   },
   {
-    "word": "결정",
-    "jp_word": "決定",
-    "jp_meaning": "あることをすることに決めること"
+    "ko_word": "남편",
+    "word": "夫",
+    "ja_meaning": "結婚した男性"
   },
   {
-    "word": "실패",
-    "jp_word": "失敗",
-    "jp_meaning": "うまくいかないこと"
+    "ko_word": "내부",
+    "word": "内部",
+    "ja_meaning": "中の部分"
   },
   {
-    "word": "결정",
-    "jp_word": "決定",
-    "jp_meaning": "あることをすることに決めること"
+    "ko_word": "내용물",
+    "word": "中身",
+    "ja_meaning": "中に入っている物"
   },
   {
-    "word": "결정",
-    "jp_word": "決定",
-    "jp_meaning": "あることをすることに決めること"
+    "ko_word": "노래",
+    "word": "歌",
+    "ja_meaning": "メロディと歌詞がある音楽"
   },
   {
-    "word": "행동",
-    "jp_word": "行動",
-    "jp_meaning": "実際に何かをすること"
+    "ko_word": "눈사람",
+    "word": "雪だるま",
+    "ja_meaning": "雪で作った人形"
   },
   {
-    "word": "자신감",
-    "jp_word": "自信",
-    "jp_meaning": "自分を信じる気持ち"
+    "ko_word": "단어",
+    "word": "単語",
+    "ja_meaning": "意味を持つ言語の最小単位"
   },
   {
-    "word": "자료",
-    "jp_word": "資料",
-    "jp_meaning": "参考になる情報やデータ"
+    "ko_word": "대화",
+    "word": "会話",
+    "ja_meaning": "互いに話すこと"
   },
   {
-    "word": "결정",
-    "jp_word": "決定",
-    "jp_meaning": "あることをすることに決めること"
+    "ko_word": "도로변",
+    "word": "道端",
+    "ja_meaning": "道路のそば"
   },
   {
-    "word": "변화",
-    "jp_word": "変化",
-    "jp_meaning": "何かが違ってくること"
+    "ko_word": "독서",
+    "word": "読書",
+    "ja_meaning": "本を読むこと"
   },
   {
-    "word": "조건",
-    "jp_word": "条件",
-    "jp_meaning": "あることが成り立つための前提"
+    "ko_word": "동네",
+    "word": "近所",
+    "ja_meaning": "住んでいる地域"
   },
   {
-    "word": "실패",
-    "jp_word": "失敗",
-    "jp_meaning": "うまくいかないこと"
+    "ko_word": "동아리",
+    "word": "サークル",
+    "ja_meaning": "共通の興味を持つ集まり"
   },
   {
-    "word": "조건",
-    "jp_word": "条件",
-    "jp_meaning": "あることが成り立つための前提"
+    "ko_word": "두려움",
+    "word": "恐れ",
+    "ja_meaning": "怖く感じること"
   },
   {
-    "word": "능력",
-    "jp_word": "能力",
-    "jp_meaning": "物事をうまくやる力"
+    "ko_word": "땀",
+    "word": "汗",
+    "ja_meaning": "暑さや運動で体から出る水分"
   },
   {
-    "word": "결정",
-    "jp_word": "決定",
-    "jp_meaning": "あることをすることに決めること"
+    "ko_word": "마을",
+    "word": "村",
+    "ja_meaning": "小さい地域社会"
   },
   {
-    "word": "행동",
-    "jp_word": "行動",
-    "jp_meaning": "実際に何かをすること"
+    "ko_word": "말",
+    "word": "言葉",
+    "ja_meaning": "話すための表現"
   },
   {
-    "word": "예정",
-    "jp_word": "予定",
-    "jp_meaning": "これからすることに決めたこと"
+    "ko_word": "매장",
+    "word": "店舗",
+    "ja_meaning": "商品を販売する場所"
   },
   {
-    "word": "변화",
-    "jp_word": "変化",
-    "jp_meaning": "何かが違ってくること"
+    "ko_word": "목욕",
+    "word": "入浴",
+    "ja_meaning": "体を洗うために湯に入ること"
   },
   {
-    "word": "생활",
-    "jp_word": "生活",
-    "jp_meaning": "毎日の暮らし"
+    "ko_word": "무섭다",
+    "word": "怖い",
+    "ja_meaning": "恐れを感じる状態"
   },
   {
-    "word": "발전",
-    "jp_word": "発展",
-    "jp_meaning": "物事がよくなっていくこと"
+    "ko_word": "발",
+    "word": "足",
+    "ja_meaning": "歩くときに使う体の部分"
   },
   {
-    "word": "변화",
-    "jp_word": "変化",
-    "jp_meaning": "何かが違ってくること"
+    "ko_word": "방",
+    "word": "部屋",
+    "ja_meaning": "建物の中の仕切られた空間"
   },
   {
-    "word": "능력",
-    "jp_word": "能力",
-    "jp_meaning": "物事をうまくやる力"
+    "ko_word": "배",
+    "word": "船",
+    "ja_meaning": "水の上を走る乗り物"
   },
   {
-    "word": "능력",
-    "jp_word": "能力",
-    "jp_meaning": "物事をうまくやる力"
+    "ko_word": "버스",
+    "word": "バス",
+    "ja_meaning": "公共の大型車両"
   },
   {
-    "word": "문제",
-    "jp_word": "問題",
-    "jp_meaning": "解決しなければならないこと"
+    "ko_word": "번호",
+    "word": "番号",
+    "ja_meaning": "識別のための数字"
   },
   {
-    "word": "실패",
-    "jp_word": "失敗",
-    "jp_meaning": "うまくいかないこと"
+    "ko_word": "변기",
+    "word": "便器",
+    "ja_meaning": "トイレで使う設備"
   },
   {
-    "word": "변화",
-    "jp_word": "変化",
-    "jp_meaning": "何かが違ってくること"
+    "ko_word": "보관",
+    "word": "保管",
+    "ja_meaning": "物を大切にしまっておくこと"
   },
   {
-    "word": "관심",
-    "jp_word": "関心",
-    "jp_meaning": "興味を持つこと"
+    "ko_word": "보내다",
+    "word": "送る",
+    "ja_meaning": "手紙や物を相手に届けること"
   },
   {
-    "word": "생활",
-    "jp_word": "生活",
-    "jp_meaning": "毎日の暮らし"
+    "ko_word": "복습",
+    "word": "復習",
+    "ja_meaning": "習ったことをもう一度学ぶこと"
   },
   {
-    "word": "관계",
-    "jp_word": "関係",
-    "jp_meaning": "人や物の間のつながり"
+    "ko_word": "부모",
+    "word": "両親",
+    "ja_meaning": "父と母"
   },
   {
-    "word": "능력",
-    "jp_word": "能力",
-    "jp_meaning": "物事をうまくやる力"
+    "ko_word": "부탁",
+    "word": "お願い",
+    "ja_meaning": "何かをしてほしいと頼むこと"
   },
   {
-    "word": "발전",
-    "jp_word": "発展",
-    "jp_meaning": "物事がよくなっていくこと"
+    "ko_word": "불꽃",
+    "word": "花火",
+    "ja_meaning": "火で光る装置"
   },
   {
-    "word": "연락",
-    "jp_word": "連絡",
-    "jp_meaning": "相手に情報を伝えること"
+    "ko_word": "비",
+    "word": "雨",
+    "ja_meaning": "空から降る水"
   },
   {
-    "word": "조건",
-    "jp_word": "条件",
-    "jp_meaning": "あることが成り立つための前提"
+    "ko_word": "사계절",
+    "word": "四季",
+    "ja_meaning": "一年にある4つの季節"
   },
   {
-    "word": "기억",
-    "jp_word": "記憶",
-    "jp_meaning": "覚えていること"
+    "ko_word": "사랑",
+    "word": "愛",
+    "ja_meaning": "人や物を大切に思う気持ち"
   },
   {
-    "word": "연락",
-    "jp_word": "連絡",
-    "jp_meaning": "相手に情報を伝えること"
+    "ko_word": "사회",
+    "word": "社会",
+    "ja_meaning": "人が集まり暮らす仕組み"
   },
   {
-    "word": "관심",
-    "jp_word": "関心",
-    "jp_meaning": "興味を持つこと"
+    "ko_word": "산책",
+    "word": "散歩",
+    "ja_meaning": "外を歩くこと"
   },
   {
-    "word": "문제",
-    "jp_word": "問題",
-    "jp_meaning": "解決しなければならないこと"
+    "ko_word": "살다",
+    "word": "住む",
+    "ja_meaning": "ある場所で生活すること"
   },
   {
-    "word": "생활",
-    "jp_word": "生活",
-    "jp_meaning": "毎日の暮らし"
+    "ko_word": "상처",
+    "word": "傷",
+    "ja_meaning": "体や心のけが"
   },
   {
-    "word": "능력",
-    "jp_word": "能力",
-    "jp_meaning": "物事をうまくやる力"
+    "ko_word": "생일",
+    "word": "誕生日",
+    "ja_meaning": "生まれた日の記念日"
   },
   {
-    "word": "자료",
-    "jp_word": "資料",
-    "jp_meaning": "参考になる情報やデータ"
+    "ko_word": "생필품",
+    "word": "生活必需品",
+    "ja_meaning": "生活に必要な物"
   },
   {
-    "word": "문제",
-    "jp_word": "問題",
-    "jp_meaning": "解決しなければならないこと"
+    "ko_word": "서류",
+    "word": "書類",
+    "ja_meaning": "文書としての資料"
   },
   {
-    "word": "연락",
-    "jp_word": "連絡",
-    "jp_meaning": "相手に情報を伝えること"
+    "ko_word": "선생님",
+    "word": "先生",
+    "ja_meaning": "教える人"
   },
   {
-    "word": "기억",
-    "jp_word": "記憶",
-    "jp_meaning": "覚えていること"
+    "ko_word": "설거지",
+    "word": "皿洗い",
+    "ja_meaning": "食器を洗うこと"
   },
   {
-    "word": "문제",
-    "jp_word": "問題",
-    "jp_meaning": "解決しなければならないこと"
+    "ko_word": "소방관",
+    "word": "消防士",
+    "ja_meaning": "火を消す仕事をする人"
   },
   {
-    "word": "자신감",
-    "jp_word": "自信",
-    "jp_meaning": "自分を信じる気持ち"
+    "ko_word": "소풍",
+    "word": "遠足",
+    "ja_meaning": "外に遊びに行くこと"
   },
   {
-    "word": "실패",
-    "jp_word": "失敗",
-    "jp_meaning": "うまくいかないこと"
+    "ko_word": "손",
+    "word": "手",
+    "ja_meaning": "体の部分で物をつかむ部分"
   },
   {
-    "word": "예정",
-    "jp_word": "予定",
-    "jp_meaning": "これからすることに決めたこと"
+    "ko_word": "수도",
+    "word": "水道",
+    "ja_meaning": "水を供給する設備"
   },
   {
-    "word": "기억",
-    "jp_word": "記憶",
-    "jp_meaning": "覚えていること"
+    "ko_word": "수영",
+    "word": "水泳",
+    "ja_meaning": "水の中で泳ぐこと"
   },
   {
-    "word": "변화",
-    "jp_word": "変化",
-    "jp_meaning": "何かが違ってくること"
+    "ko_word": "시청",
+    "word": "市役所",
+    "ja_meaning": "市の行政を行う建物"
   },
   {
-    "word": "기억",
-    "jp_word": "記憶",
-    "jp_meaning": "覚えていること"
+    "ko_word": "식당",
+    "word": "食堂",
+    "ja_meaning": "食事をする店"
   },
   {
-    "word": "행동",
-    "jp_word": "行動",
-    "jp_meaning": "実際に何かをすること"
+    "ko_word": "신발",
+    "word": "靴",
+    "ja_meaning": "足を保護する履き物"
   },
   {
-    "word": "자신감",
-    "jp_word": "自信",
-    "jp_meaning": "自分を信じる気持ち"
+    "ko_word": "쓰레기",
+    "word": "ごみ",
+    "ja_meaning": "いらなくなった物"
   },
   {
-    "word": "기억",
-    "jp_word": "記憶",
-    "jp_meaning": "覚えていること"
+    "ko_word": "아버지",
+    "word": "父",
+    "ja_meaning": "男の親"
   },
   {
-    "word": "예정",
-    "jp_word": "予定",
-    "jp_meaning": "これからすることに決めたこと"
+    "ko_word": "아주머니",
+    "word": "おばさん",
+    "ja_meaning": "年上の女性に対する呼び方"
   },
   {
-    "word": "연락",
-    "jp_word": "連絡",
-    "jp_meaning": "相手に情報を伝えること"
+    "ko_word": "아침식사",
+    "word": "朝ご飯",
+    "ja_meaning": "朝食べる食事"
   },
   {
-    "word": "문제",
-    "jp_word": "問題",
-    "jp_meaning": "解決しなければならないこと"
+    "ko_word": "아파트",
+    "word": "マンション",
+    "ja_meaning": "集合住宅"
   },
   {
-    "word": "연락",
-    "jp_word": "連絡",
-    "jp_meaning": "相手に情報を伝えること"
+    "ko_word": "약속시간",
+    "word": "約束の時間",
+    "ja_meaning": "会うと決めた時間"
   },
   {
-    "word": "연락",
-    "jp_word": "連絡",
-    "jp_meaning": "相手に情報を伝えること"
+    "ko_word": "양식",
+    "word": "様式",
+    "ja_meaning": "形式やスタイル"
   },
   {
-    "word": "자신감",
-    "jp_word": "自信",
-    "jp_meaning": "自分を信じる気持ち"
+    "ko_word": "어머니",
+    "word": "母",
+    "ja_meaning": "女の親"
   },
   {
-    "word": "성공",
-    "jp_word": "成功",
-    "jp_meaning": "思ったとおりにうまくいくこと"
+    "ko_word": "얼굴",
+    "word": "顔",
+    "ja_meaning": "人の表情が出る部分"
   },
   {
-    "word": "관심",
-    "jp_word": "関心",
-    "jp_meaning": "興味を持つこと"
+    "ko_word": "얼음",
+    "word": "氷",
+    "ja_meaning": "水が冷えて固まったもの"
   },
   {
-    "word": "경험",
-    "jp_word": "経験",
-    "jp_meaning": "自分で実際にやってみたり感じたりしたこと"
+    "ko_word": "연필",
+    "word": "鉛筆",
+    "ja_meaning": "書くための道具"
   },
   {
-    "word": "관심",
-    "jp_word": "関心",
-    "jp_meaning": "興味を持つこと"
+    "ko_word": "열",
+    "word": "熱",
+    "ja_meaning": "体温が高い状態"
   },
   {
-    "word": "자료",
-    "jp_word": "資料",
-    "jp_meaning": "参考になる情報やデータ"
+    "ko_word": "열차",
+    "word": "列車",
+    "ja_meaning": "線路を走る車両"
   },
   {
-    "word": "행동",
-    "jp_word": "行動",
-    "jp_meaning": "実際に何かをすること"
+    "ko_word": "영수증",
+    "word": "領収書",
+    "ja_meaning": "支払った証明書"
   },
   {
-    "word": "성공",
-    "jp_word": "成功",
-    "jp_meaning": "思ったとおりにうまくいくこと"
+    "ko_word": "오른쪽",
+    "word": "右側",
+    "ja_meaning": "右の方向"
   },
   {
-    "word": "실패",
-    "jp_word": "失敗",
-    "jp_meaning": "うまくいかないこと"
+    "ko_word": "옷장",
+    "word": "洋服ダンス",
+    "ja_meaning": "服をしまう家具"
   },
   {
-    "word": "기억",
-    "jp_word": "記憶",
-    "jp_meaning": "覚えていること"
+    "ko_word": "요금",
+    "word": "料金",
+    "ja_meaning": "支払いが必要なお金"
   },
   {
-    "word": "관심",
-    "jp_word": "関心",
-    "jp_meaning": "興味を持つこと"
+    "ko_word": "운동장",
+    "word": "運動場",
+    "ja_meaning": "スポーツをする広場"
   },
   {
-    "word": "관심",
-    "jp_word": "関心",
-    "jp_meaning": "興味を持つこと"
+    "ko_word": "운전사",
+    "word": "運転手",
+    "ja_meaning": "乗り物を運転する人"
   },
   {
-    "word": "행동",
-    "jp_word": "行動",
-    "jp_meaning": "実際に何かをすること"
+    "ko_word": "음식점",
+    "word": "飲食店",
+    "ja_meaning": "食べ物を提供する店"
   },
   {
-    "word": "관심",
-    "jp_word": "関心",
-    "jp_meaning": "興味を持つこと"
+    "ko_word": "이불",
+    "word": "布団",
+    "ja_meaning": "寝るときにかける物"
   },
   {
-    "word": "정보",
-    "jp_word": "情報",
-    "jp_meaning": "知っておくべき内容"
+    "ko_word": "자동차",
+    "word": "自動車",
+    "ja_meaning": "人や物を運ぶための乗り物"
   },
   {
-    "word": "자료",
-    "jp_word": "資料",
-    "jp_meaning": "参考になる情報やデータ"
+    "ko_word": "자전거",
+    "word": "自転車",
+    "ja_meaning": "足でこいで進む乗り物"
   },
   {
-    "word": "변화",
-    "jp_word": "変化",
-    "jp_meaning": "何かが違ってくること"
+    "ko_word": "작년",
+    "word": "去年",
+    "ja_meaning": "今の前年"
   },
   {
-    "word": "변화",
-    "jp_word": "変化",
-    "jp_meaning": "何かが違ってくること"
+    "ko_word": "잔치",
+    "word": "宴会",
+    "ja_meaning": "祝いごとの集まり"
   },
   {
-    "word": "관심",
-    "jp_word": "関心",
-    "jp_meaning": "興味を持つこと"
+    "ko_word": "잘못",
+    "word": "間違い",
+    "ja_meaning": "間違った行動や言葉"
   },
   {
-    "word": "이해",
-    "jp_word": "理解",
-    "jp_meaning": "内容をよくわかること"
+    "ko_word": "장갑",
+    "word": "手袋",
+    "ja_meaning": "手を保護するもの"
   },
   {
-    "word": "자료",
-    "jp_word": "資料",
-    "jp_meaning": "参考になる情報やデータ"
+    "ko_word": "재료",
+    "word": "材料",
+    "ja_meaning": "料理や物を作るもと"
   },
   {
-    "word": "결정",
-    "jp_word": "決定",
-    "jp_meaning": "あることをすることに決めること"
+    "ko_word": "저녁",
+    "word": "夕方",
+    "ja_meaning": "日の暮れる頃"
   },
   {
-    "word": "변화",
-    "jp_word": "変化",
-    "jp_meaning": "何かが違ってくること"
+    "ko_word": "전화",
+    "word": "電話",
+    "ja_meaning": "声で話す通信手段"
   },
   {
-    "word": "자신감",
-    "jp_word": "自信",
-    "jp_meaning": "自分を信じる気持ち"
+    "ko_word": "전통",
+    "word": "伝統",
+    "ja_meaning": "長く受け継がれた文化"
   },
   {
-    "word": "조건",
-    "jp_word": "条件",
-    "jp_meaning": "あることが成り立つための前提"
+    "ko_word": "절",
+    "word": "寺",
+    "ja_meaning": "仏教の宗教施設"
   },
   {
-    "word": "관심",
-    "jp_word": "関心",
-    "jp_meaning": "興味を持つこと"
+    "ko_word": "점심",
+    "word": "昼ご飯",
+    "ja_meaning": "昼に食べる食事"
   },
   {
-    "word": "자료",
-    "jp_word": "資料",
-    "jp_meaning": "参考になる情報やデータ"
+    "ko_word": "접시",
+    "word": "皿",
+    "ja_meaning": "食べ物をのせる容器"
   },
   {
-    "word": "변화",
-    "jp_word": "変化",
-    "jp_meaning": "何かが違ってくること"
+    "ko_word": "정거장",
+    "word": "停留所",
+    "ja_meaning": "バスなどの乗り降り場所"
   },
   {
-    "word": "발전",
-    "jp_word": "発展",
-    "jp_meaning": "物事がよくなっていくこと"
+    "ko_word": "제목",
+    "word": "タイトル",
+    "ja_meaning": "本や記事の名前"
   },
   {
-    "word": "정보",
-    "jp_word": "情報",
-    "jp_meaning": "知っておくべき内容"
+    "ko_word": "조금",
+    "word": "少し",
+    "ja_meaning": "量や程度がわずか"
   },
   {
-    "word": "조건",
-    "jp_word": "条件",
-    "jp_meaning": "あることが成り立つための前提"
+    "ko_word": "종이",
+    "word": "紙",
+    "ja_meaning": "書いたり包んだりするもの"
   },
   {
-    "word": "관심",
-    "jp_word": "関心",
-    "jp_meaning": "興味を持つこと"
+    "ko_word": "주문",
+    "word": "注文",
+    "ja_meaning": "商品や食べ物を頼むこと"
   },
   {
-    "word": "실패",
-    "jp_word": "失敗",
-    "jp_meaning": "うまくいかないこと"
+    "ko_word": "주인",
+    "word": "主人",
+    "ja_meaning": "持ち主や経営者"
   },
   {
-    "word": "변화",
-    "jp_word": "変化",
-    "jp_meaning": "何かが違ってくること"
+    "ko_word": "준비물",
+    "word": "準備物",
+    "ja_meaning": "あらかじめ用意するもの"
   },
   {
-    "word": "자료",
-    "jp_word": "資料",
-    "jp_meaning": "参考になる情報やデータ"
+    "ko_word": "중간",
+    "word": "中間",
+    "ja_meaning": "物事の真ん中"
   },
   {
-    "word": "성공",
-    "jp_word": "成功",
-    "jp_meaning": "思ったとおりにうまくいくこと"
+    "ko_word": "지갑",
+    "word": "財布",
+    "ja_meaning": "お金を入れる物"
   },
   {
-    "word": "관계",
-    "jp_word": "関係",
-    "jp_meaning": "人や物の間のつながり"
+    "ko_word": "지하철",
+    "word": "地下鉄",
+    "ja_meaning": "地下を走る列車"
   },
   {
-    "word": "결정",
-    "jp_word": "決定",
-    "jp_meaning": "あることをすることに決めること"
+    "ko_word": "직업",
+    "word": "職業",
+    "ja_meaning": "仕事の種類"
   },
   {
-    "word": "이해",
-    "jp_word": "理解",
-    "jp_meaning": "内容をよくわかること"
+    "ko_word": "직장",
+    "word": "職場",
+    "ja_meaning": "働く場所"
   },
   {
-    "word": "관심",
-    "jp_word": "関心",
-    "jp_meaning": "興味を持つこと"
+    "ko_word": "질문",
+    "word": "質問",
+    "ja_meaning": "分からないことを聞くこと"
   },
   {
-    "word": "기억",
-    "jp_word": "記憶",
-    "jp_meaning": "覚えていること"
+    "ko_word": "차",
+    "word": "お茶",
+    "ja_meaning": "飲み物の一つ"
   },
   {
-    "word": "결정",
-    "jp_word": "決定",
-    "jp_meaning": "あることをすることに決めること"
+    "ko_word": "차이",
+    "word": "違い",
+    "ja_meaning": "異なる点"
   },
   {
-    "word": "결정",
-    "jp_word": "決定",
-    "jp_meaning": "あることをすることに決めること"
+    "ko_word": "참석",
+    "word": "出席",
+    "ja_meaning": "会議や集まりに出ること"
   },
   {
-    "word": "결정",
-    "jp_word": "決定",
-    "jp_meaning": "あることをすることに決めること"
+    "ko_word": "청소",
+    "word": "掃除",
+    "ja_meaning": "部屋などをきれいにすること"
   },
   {
-    "word": "발전",
-    "jp_word": "発展",
-    "jp_meaning": "物事がよくなっていくこと"
+    "ko_word": "초등학생",
+    "word": "小学生",
+    "ja_meaning": "初等教育を受ける子供"
   },
   {
-    "word": "조건",
-    "jp_word": "条件",
-    "jp_meaning": "あることが成り立つための前提"
+    "ko_word": "초대",
+    "word": "招待",
+    "ja_meaning": "人を呼ぶこと"
   },
   {
-    "word": "실패",
-    "jp_word": "失敗",
-    "jp_meaning": "うまくいかないこと"
+    "ko_word": "최고",
+    "word": "最高",
+    "ja_meaning": "一番上、最も良いこと"
   },
   {
-    "word": "연락",
-    "jp_word": "連絡",
-    "jp_meaning": "相手に情報を伝えること"
+    "ko_word": "추억",
+    "word": "思い出",
+    "ja_meaning": "昔の記憶"
   },
   {
-    "word": "문제",
-    "jp_word": "問題",
-    "jp_meaning": "解決しなければならないこと"
+    "ko_word": "출근",
+    "word": "出勤",
+    "ja_meaning": "仕事へ行くこと"
   },
   {
-    "word": "자신감",
-    "jp_word": "自信",
-    "jp_meaning": "自分を信じる気持ち"
+    "ko_word": "취미",
+    "word": "趣味",
+    "ja_meaning": "楽しみで行う活動"
   },
   {
-    "word": "자신감",
-    "jp_word": "自信",
-    "jp_meaning": "自分を信じる気持ち"
+    "ko_word": "치마",
+    "word": "スカート",
+    "ja_meaning": "腰から下に着る服"
   },
   {
-    "word": "변화",
-    "jp_word": "変化",
-    "jp_meaning": "何かが違ってくること"
+    "ko_word": "친구",
+    "word": "友達",
+    "ja_meaning": "親しく付き合う人"
   },
   {
-    "word": "발전",
-    "jp_word": "発展",
-    "jp_meaning": "物事がよくなっていくこと"
+    "ko_word": "침대",
+    "word": "ベッド",
+    "ja_meaning": "寝るための家具"
   },
   {
-    "word": "경험",
-    "jp_word": "経験",
-    "jp_meaning": "自分で実際にやってみたり感じたりしたこと"
+    "ko_word": "카드",
+    "word": "カード",
+    "ja_meaning": "支払いなどに使う小さな板"
   },
   {
-    "word": "경험",
-    "jp_word": "経験",
-    "jp_meaning": "自分で実際にやってみたり感じたりしたこと"
+    "ko_word": "카메라",
+    "word": "カメラ",
+    "ja_meaning": "写真を撮る機械"
   },
   {
-    "word": "조건",
-    "jp_word": "条件",
-    "jp_meaning": "あることが成り立つための前提"
+    "ko_word": "칼",
+    "word": "包丁",
+    "ja_meaning": "切るための道具"
   },
   {
-    "word": "변화",
-    "jp_word": "変化",
-    "jp_meaning": "何かが違ってくること"
+    "ko_word": "캠핑",
+    "word": "キャンプ",
+    "ja_meaning": "屋外で寝泊まりすること"
   },
   {
-    "word": "자료",
-    "jp_word": "資料",
-    "jp_meaning": "参考になる情報やデータ"
+    "ko_word": "컵",
+    "word": "コップ",
+    "ja_meaning": "飲み物を入れる容器"
   },
   {
-    "word": "문제",
-    "jp_word": "問題",
-    "jp_meaning": "解決しなければならないこと"
+    "ko_word": "컴퓨터",
+    "word": "コンピューター",
+    "ja_meaning": "情報処理の機械"
   },
   {
-    "word": "경험",
-    "jp_word": "経験",
-    "jp_meaning": "自分で実際にやってみたり感じたりしたこと"
+    "ko_word": "케이크",
+    "word": "ケーキ",
+    "ja_meaning": "甘い洋菓子"
   },
   {
-    "word": "기억",
-    "jp_word": "記憶",
-    "jp_meaning": "覚えていること"
+    "ko_word": "코",
+    "word": "鼻",
+    "ja_meaning": "においをかぐ器官"
   },
   {
-    "word": "생활",
-    "jp_word": "生活",
-    "jp_meaning": "毎日の暮らし"
+    "ko_word": "코트",
+    "word": "コート",
+    "ja_meaning": "外で着る長い上着"
   },
   {
-    "word": "경험",
-    "jp_word": "経験",
-    "jp_meaning": "自分で実際にやってみたり感じたりしたこと"
+    "ko_word": "크기",
+    "word": "大きさ",
+    "ja_meaning": "サイズの程度"
   },
   {
-    "word": "변화",
-    "jp_word": "変化",
-    "jp_meaning": "何かが違ってくること"
-  },
-  {
-    "word": "예정",
-    "jp_word": "予定",
-    "jp_meaning": "これからすることに決めたこと"
-  },
-  {
-    "word": "기억",
-    "jp_word": "記憶",
-    "jp_meaning": "覚えていること"
-  },
-  {
-    "word": "결정",
-    "jp_word": "決定",
-    "jp_meaning": "あることをすることに決めること"
-  },
-  {
-    "word": "예정",
-    "jp_word": "予定",
-    "jp_meaning": "これからすることに決めたこと"
-  },
-  {
-    "word": "관심",
-    "jp_word": "関心",
-    "jp_meaning": "興味を持つこと"
-  },
-  {
-    "word": "경험",
-    "jp_word": "経験",
-    "jp_meaning": "自分で実際にやってみたり感じたりしたこと"
-  },
-  {
-    "word": "실패",
-    "jp_word": "失敗",
-    "jp_meaning": "うまくいかないこと"
-  },
-  {
-    "word": "예정",
-    "jp_word": "予定",
-    "jp_meaning": "これからすることに決めたこと"
-  },
-  {
-    "word": "변화",
-    "jp_word": "変化",
-    "jp_meaning": "何かが違ってくること"
-  },
-  {
-    "word": "경험",
-    "jp_word": "経験",
-    "jp_meaning": "自分で実際にやってみたり感じたりしたこと"
-  },
-  {
-    "word": "예정",
-    "jp_word": "予定",
-    "jp_meaning": "これからすることに決めたこと"
-  },
-  {
-    "word": "예정",
-    "jp_word": "予定",
-    "jp_meaning": "これからすることに決めたこと"
-  },
-  {
-    "word": "생활",
-    "jp_word": "生活",
-    "jp_meaning": "毎日の暮らし"
-  },
-  {
-    "word": "성공",
-    "jp_word": "成功",
-    "jp_meaning": "思ったとおりにうまくいくこと"
-  },
-  {
-    "word": "실패",
-    "jp_word": "失敗",
-    "jp_meaning": "うまくいかないこと"
+    "ko_word": "탁자",
+    "word": "テーブル",
+    "ja_meaning": "物を置くための家具"
   }
 ]
