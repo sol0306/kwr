@@ -33,7 +33,7 @@ function generateWord() {
   }
 
   const random = shuffledWords[currentIndex++];
-  document.getElementById("word_display").innerText = `단어: ${random.word}`;
+  document.getElementById("word_display").innerText = `단어: ${random.ko_word}`;
   document.getElementById("jp_word").innerText = random.jp_word;
   document.getElementById("jp_meaning").innerText = random.jp_meaning;
 
